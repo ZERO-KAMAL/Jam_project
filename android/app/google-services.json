@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "179768629842",
+    "firebase_url": "https://jam-project-1717d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "jam-project-1717d",
+    "storage_bucket": "jam-project-1717d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179768629842:android:fe6e323a81918bba001d8b",
+        "android_client_info": {
+          "package_name": "com.example.jamProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179768629842-ns4lo2ajh6fh4nnoict8r1fn24omq3cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXkJ6dF5qI1T-hLN9M0uHo339DgYN_kGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179768629842-ns4lo2ajh6fh4nnoict8r1fn24omq3cs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
